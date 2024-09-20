@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*.home-container{
+  background-color:grey: 
+    font-size: 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}*/
+span{
+  color: rgb(211, 59, 21)
+}
+/*.child-container{
+  height:250px;
+  width: fit-content;
+  margin: 40px;
+  font-weight: 900;
+  font-size: 20px;
+
+}*/
